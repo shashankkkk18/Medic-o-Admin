@@ -11,7 +11,7 @@ const fontSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Medi-Admino",
+  title: "Medic-o-Admin",
   description: "An appoitment management system",
 };
 
