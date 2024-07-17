@@ -12,7 +12,7 @@ const fontSans = Plus_Jakarta_Sans({
 
 export const metadata: Metadata = {
   title: "Medic-o-Admin",
-  description: "An appoitment management system",
+  description: "An appointment management system",
 };
 
 export default function RootLayout({
